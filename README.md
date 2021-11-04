@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```js
-async function legend(){
-  let langs = [JavaScript, HTML5, Lua];
-  let tools = [FireFox, Windows, Discord, GitHub]
-}
-exports.billy_ftw = legend;
+```lua
+Hi!
+Welcome to my new github profile!
 ```
 
 ![GitHub_stats](https://github-readme-stats.vercel.app/api?username=BillyFTWw&show_icons=true&theme=radical)
