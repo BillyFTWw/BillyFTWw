@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BillyFTWw&theme=onedark)](https://github.com/BillyFTWw)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BillyFTWw&title=Followers)
 
 ```js
 async function legend(){
