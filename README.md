@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+
 ```js
 async function legend(){
   let langs = [JavaScript, HTML5, Lua];
