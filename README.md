@@ -1,4 +1,4 @@
-### 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 🍇
+### Welcome 🍇
 <!--
 **BillyFTWw/BillyFTWw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
