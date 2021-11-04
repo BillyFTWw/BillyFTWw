@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ```lua
-Hi! \nWelcome to my new github profile!
+Hi!
+Welcome to my new github profile!
 ```
 
 ![GitHub_stats](https://github-readme-stats.vercel.app/api?username=BillyFTWw&show_icons=true&theme=radical)
