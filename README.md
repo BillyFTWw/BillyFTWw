@@ -24,6 +24,6 @@ exports.billy_ftw = legend;
 <p align="center">
 <a href="https://github.com/Kazakos-OG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BillyFTWw&show_icons=true&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillyFTWw&layout=compact&langs_count=8&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillyFTWw&layout=compact&langs_count=8&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23"/>
 </a>
 </p>
