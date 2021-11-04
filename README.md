@@ -23,4 +23,4 @@ exports.billy_ftw = legend;
 
 ![GitHub_stats](https://github-readme-stats.vercel.app/api?username=BillyFTWw&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyFTWw&layout=compact)](https://github.com/BillyFTWw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyFTWw&layout=compact)](https://github.com/BillyFTWw)
