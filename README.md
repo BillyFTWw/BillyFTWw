@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ```js
 async function legend() {
-
   let langs = ['JavaScript', 'HTML5', Lua];
   let tools = ['FireFox', 'Windows', 'Discord', 'GitHub'];
 }
